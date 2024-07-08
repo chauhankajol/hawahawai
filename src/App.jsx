@@ -15,7 +15,7 @@ function App() {
   return (
     <>
     <Navbar/> 
-   <Part/>
+   <Part />
    <Part1/>
    <Thirdpart/>
    <Fourthpart/>
